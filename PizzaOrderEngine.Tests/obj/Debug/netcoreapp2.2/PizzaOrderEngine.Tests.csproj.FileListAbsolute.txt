@@ -1,0 +1,17 @@
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\bin\Debug\netcoreapp2.2\PizzaOrderEngine.Tests.deps.json
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\bin\Debug\netcoreapp2.2\PizzaOrderEngine.Tests.runtimeconfig.json
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\bin\Debug\netcoreapp2.2\PizzaOrderEngine.Tests.runtimeconfig.dev.json
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\bin\Debug\netcoreapp2.2\PizzaOrderEngine.Tests.dll
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\bin\Debug\netcoreapp2.2\PizzaOrderEngine.Tests.pdb
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\bin\Debug\netcoreapp2.2\PizzaOrderEngine.dll
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\bin\Debug\netcoreapp2.2\PizzaOrderEngine.pdb
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\obj\Debug\netcoreapp2.2\PizzaOrderEngine.Tests.csprojAssemblyReference.cache
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\obj\Debug\netcoreapp2.2\PizzaOrderEngine.Tests.csproj.CoreCompileInputs.cache
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\obj\Debug\netcoreapp2.2\PizzaOrderEngine.Tests.AssemblyInfoInputs.cache
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\obj\Debug\netcoreapp2.2\PizzaOrderEngine.Tests.AssemblyInfo.cs
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\obj\Debug\netcoreapp2.2\PizzaOrderEngine.Tests.csproj.CopyComplete
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\obj\Debug\netcoreapp2.2\PizzaOrderEngine.Tests.dll
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine.Tests\obj\Debug\netcoreapp2.2\PizzaOrderEngine.Tests.pdb

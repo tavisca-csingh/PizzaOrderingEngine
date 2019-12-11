@@ -1,0 +1,10 @@
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine\bin\Debug\netcoreapp2.2\PizzaOrderEngine.deps.json
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine\bin\Debug\netcoreapp2.2\PizzaOrderEngine.runtimeconfig.json
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine\bin\Debug\netcoreapp2.2\PizzaOrderEngine.runtimeconfig.dev.json
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine\bin\Debug\netcoreapp2.2\PizzaOrderEngine.dll
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine\bin\Debug\netcoreapp2.2\PizzaOrderEngine.pdb
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine\obj\Debug\netcoreapp2.2\PizzaOrderEngine.csproj.CoreCompileInputs.cache
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine\obj\Debug\netcoreapp2.2\PizzaOrderEngine.AssemblyInfoInputs.cache
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine\obj\Debug\netcoreapp2.2\PizzaOrderEngine.AssemblyInfo.cs
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine\obj\Debug\netcoreapp2.2\PizzaOrderEngine.dll
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\PizzaOrderEngine\obj\Debug\netcoreapp2.2\PizzaOrderEngine.pdb

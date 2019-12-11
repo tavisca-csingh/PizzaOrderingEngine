@@ -1,0 +1,3 @@
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\obj\Debug\netcoreapp2.2\PizzaOrderingEngine.csproj.CoreCompileInputs.cache
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\obj\Debug\netcoreapp2.2\PizzaOrderingEngine.AssemblyInfoInputs.cache
+C:\Users\csingh\Desktop\orxe-tribe-Assignment\API\PizzaOrderingEngine\obj\Debug\netcoreapp2.2\PizzaOrderingEngine.AssemblyInfo.cs
